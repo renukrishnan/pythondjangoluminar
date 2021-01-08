@@ -1,0 +1,14 @@
+num1=int(input("enter no1:"))
+num2=int(input("enter no2:"))
+addition=num1+num2
+print("num1 + num2 =",addition)
+substraction=num1-num2
+print("num1 - num2 =",substraction)
+division=num1/num2
+print("num1 / num2 =",division)
+multiplication=num1*num2
+print("num1 * num2 =",multiplication)
+floor=num1//num2
+print("num1 // num2 =",floor)
+modulus=num1%num2
+print("num1 % num2 =",modulus)

@@ -1,0 +1,9 @@
+num=10
+num+=1#num=num+1
+print(num)
+num2=20
+num-=2
+print(num2)
+num3=20
+num3*=2
+print(num3)
