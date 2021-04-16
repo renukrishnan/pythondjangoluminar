@@ -17,6 +17,8 @@ print(diff)
 
 #assesment
 
-students=["name1","name2","name3"]
-fail=["name1","nqme2"]
-pass=?
+students={"renu","sanoj","vedant","Rahul","veena"}
+fail={"renu","veena"}
+#pass=?
+pas=students.difference(fail)
+print(pas)
